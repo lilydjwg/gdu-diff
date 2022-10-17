@@ -1,4 +1,4 @@
-Use gdu to diff and compare directory usages
+Use [gdu](https://github.com/dundee/gdu) to diff and compare directory usages.
 
 ## Usage
 
